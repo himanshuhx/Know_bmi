@@ -2,10 +2,9 @@
 A Flutter Application that helps you to keep a check on your Body Mass Index.
 
 ## Operating System
-Android Operating System
-
+Android Operating System and ios
 ## Language Used
-Flutter
+Dart
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/65825310/101018716-e5fc9d80-3591-11eb-9c39-7d962bc223b5.png"
